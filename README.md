@@ -1,5 +1,9 @@
 # BaseTest
 
+## 100% Test Coverage
+
+ ![alt text](https://i.imgur.com/ig0PKxB.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
 ## Development server
